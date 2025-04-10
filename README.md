@@ -1,7 +1,9 @@
 # Ascension 🤖
 
 <div align="center">
-  <img src="![1500x500(1)](https://github.com/user-attachments/assets/1b8542ff-750f-4932-bb44-ea706a893f6e)" alt="Eliza Banner" width="100%" />
+    
+![1500x500(1)](https://github.com/user-attachments/assets/4d128706-8572-4913-abc4-fded7e1f8b77)
+
 </div>
 
 <div align="center">
