@@ -1,12 +1,12 @@
-# Eliza 🤖
+# Ascension 🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="![1500x500(1)](https://github.com/user-attachments/assets/1b8542ff-750f-4932-bb44-ea706a893f6e)" alt="Eliza Banner" width="100%" />
 </div>
 
 <div align="center">
 
-📑 [Technical Report](https://arxiv.org/pdf/2501.06781) |  📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
+📑 [Technical Report](https://x.com/_AscensionAI) |  📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://x.com/_AscensionAI)
 
 </div>
 
