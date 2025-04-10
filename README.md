@@ -8,7 +8,7 @@
 
 <div align="center">
 
-📑 [Technical Report](https://x.com/_AscensionAI) |  📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://x.com/_AscensionAI)
+📑 [Twitter](https://x.com/_AscensionAI) |  📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://x.com/_AscensionAI)
 
 </div>
 
